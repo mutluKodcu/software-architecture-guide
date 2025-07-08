@@ -26,7 +26,7 @@ Yazılım mimari desenleri anlamak ve doğru mimariyi seçmek hedeflenmektedir.
 
 ## İçindekiler
 
-1. [Layered (n-tier) Architecture](#1-layered-n-tier-architecture)  
+1. [Layered (n-tier) Architecture](https://github.com/mutluKodcu/software-architecture-guide/tree/main/layered-architecture-example) 
 2. [Client / Onion Architecture](#2-client--onion-architecture)  
 3. [Object-Oriented Architecture](#3-object-oriented-architecture)  
 4. [Microkernel Architecture](#4-microkernel-architecture)  
