@@ -1,0 +1,28 @@
+layered-architecture-example/
+├── pom.xml
+├── README.md
+├── src
+│   └── main
+│       ├── java
+│       │   └── com
+│       │       └── uyg4
+│       │           └── dmtbkt
+│       │               └── layered
+│       │                   ├── controller
+│       │                   │   └── UserController.java
+│       │                   ├── entity
+│       │                   │   ├── User.java
+│       │                   │   ├── Phone.java
+│       │                   │   ├── Email.java
+│       │                   │   └── PhoneType.java
+│       │                   ├── repository
+│       │                   │   ├── UserRepository.java
+│       │                   │   ├── PhoneRepository.java
+│       │                   │   └── EmailRepository.java
+│       │                   ├── service
+│       │                   │   ├── UserService.java
+│       │                   │   └── UserServiceImpl.java
+│       │                   └── LayeredArchitectureExampleApplication.java
+│       └── resources
+│           ├── application.yml
+│           └── data.sql
